@@ -1,3 +1,3 @@
 <?php
-print "Llega un gran CAAAMMBIIOOOOO "\n";
+print "Llega un gran CAAAMMBIIOOOOO\n";
 ?>
